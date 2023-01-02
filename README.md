@@ -20,7 +20,7 @@ This repo contains my favorite LaTeX Beamer presentation template I use in acade
     * **[OPTIONAL]** Use `make presentation-dev-pympress` to use Pympress for preview
 * Build handout pdf (no notes): `make handout`
 
-Compiled example PDFs can be seen in the [releases]() page.
+Compiled example PDFs can be seen in the [releases](https://github.com/sevagh/beamer-presentation/releases) page.
 
 ## Features
 
